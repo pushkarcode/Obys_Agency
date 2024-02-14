@@ -28,5 +28,5 @@ This project is licensed under the MIT License.
 
 Live Demo
 
-Check out the live demo: https://pushkarcode.github.io/Obsy_Agency/
+Check out the live demo:https://pushkarcode.github.io/Obys_Agency/
 
