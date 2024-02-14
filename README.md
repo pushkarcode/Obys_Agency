@@ -21,8 +21,12 @@ This website consists multiple types of animations.
 Issues
 
 *If you encounter any issues or have suggestions, please open an issue on the Issues page.
+
 License
 
 This project is licensed under the MIT License.
 
+Live Demo
+
+Check out the live demo: 
 
