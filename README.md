@@ -14,8 +14,8 @@ Technologies Used
 
 This website consists multiple types of animations.
 
---> gsap and locomotive js
--->shery.js Library
+* gsap and locomotive js
+* shery.js Library
 
 
 Issues
